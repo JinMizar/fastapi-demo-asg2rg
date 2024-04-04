@@ -13,6 +13,6 @@ tasks:
 ports:
   - name: API
     description: Preview changes to your application
-    port: 8000-8001
+    port: 8000-8080
     onOpen: open-browser
     visibility: public
